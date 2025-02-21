@@ -9,7 +9,7 @@ export const BottomNavigation = () => {
 
   const links = [
     { path: "/", icon: Home, label: "Home" },
-    { path: "/search", icon: Search, label: "Search" },
+    { path: "/categories", icon: Search, label: "Categories" },
     { path: "/cart", icon: ShoppingBag, label: "Cart" },
     { path: "/profile", icon: User, label: "Profile" },
   ];
